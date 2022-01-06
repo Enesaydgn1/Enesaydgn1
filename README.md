@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Aydoğan👋</h1>
 
+<h2 align="center">Student of computer programming in turkey<br>
+#PHP #MYSQL #JAVASCRİPT #HTML/CSS</h2>
 
 📫 How to reach me eenesaydogann@gmail.com
 
