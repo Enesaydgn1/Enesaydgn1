@@ -3,7 +3,7 @@
 
 📫 How to reach me eenesaydogann@gmail.com
 
-<h2>Social Media</h2>
+## Social Media
 <summary>
   
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Enesaydgn1" height="20" width="20" />  [aydgn.enes](https://www.instagram.com/aydgn.enes/)
