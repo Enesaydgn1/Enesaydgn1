@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Enes Aydoğan👋</h1>
 
-<h2 align="center">Student of computer programming in turkey<br>
+<h2 align="center">Frontend Developer | Web Designer <br>
 #PHP #MYSQL #JAVASCRİPT #HTML/CSS</h2>
+
+
 
 📫 How to reach me eenesaydogann@gmail.com
 
@@ -38,5 +40,5 @@
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Enesaydgn1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Enesaydgn1=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Enesaydgn1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
