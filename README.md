@@ -3,7 +3,7 @@
 <h2 align="center">Frontend Developer | Web Designer <br>
 #PHP #MYSQL #JAVASCRİPT #HTML/CSS</h2>
 
-
+I make improvements in the frontend area and at the same time I follow the innovations in the software world.
 
 📫 How to reach me eenesaydogann@gmail.com
 
