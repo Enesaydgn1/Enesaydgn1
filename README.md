@@ -31,11 +31,12 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Enesaydgn1" height="20" width="20" /> [Enes Aydoğan](https://medium.com/@enesaydogan65)
 
 </summary>
-  
+<summary> 
 [Bionluk](https://bionluk.com/enesaydogann)
-
+</summary> 
+<summary> 
 [Fiverr](https://www.fiverr.com/enesaydogan61?up_rollout=true)
-
+</summary> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesaydgn1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Enesaydgn1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
