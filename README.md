@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enes Aydoğan👋</h1>
 
 <h2 align="center">Frontend Developer | Web Designer <br>
-#PHP #MYSQL #JAVASCRİPT #HTML/CSS</h2>
+#JAVASCRİPT #HTML/CSS #REACT  </h2>
 
 <h3 align="center">I make improvements in the frontend area and at the same time I follow the innovations in the software world.</h3>
 
