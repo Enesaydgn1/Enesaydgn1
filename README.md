@@ -16,9 +16,11 @@
 <a href="https://www.hackerrank.com/enes_aydogan65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="enes_aydogan65" height="30" width="40" /></a>
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesaydgn1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesaydgn1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Enesaydgn1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
 
 
