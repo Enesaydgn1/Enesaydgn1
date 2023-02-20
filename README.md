@@ -8,22 +8,22 @@
 📫 How to reach me eenesaydogann@gmail.com
 
 ## Social Media
-<div style="display:flex;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Enesaydgn1" height="20" width="20" />  [aydgn.enes](https://www.instagram.com/aydgn.enes/)
+
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Enesaydgn1" height="20" width="20" />  (https://www.instagram.com/aydgn.enes/)
 
 
 
   
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetalibayram" height="20" width="20" /> [Enes Aydoğan](https://www.linkedin.com/in/enes-aydo%C4%9Fan-2175a61b1/)
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetalibayram" height="20" width="20" /> (https://www.linkedin.com/in/enes-aydo%C4%9Fan-2175a61b1/)
  
 
   
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Enesaydgn1" height="20" width="20" /> [Enes Aydoğan](https://stackoverflow.com/users/17739833/enes-aydogan)
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Enesaydgn1" height="20" width="20" /> (https://stackoverflow.com/users/17739833/enes-aydogan)
 
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Enesaydgn1" height="20" width="20" /> [Enes Aydoğan](https://medium.com/@enesaydogan65)
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Enesaydgn1" height="20" width="20" />(https://medium.com/@enesaydogan65)
 
- </div>
+
 
   
 
