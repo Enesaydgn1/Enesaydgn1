@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Enes Aydoğan👋</h1>
-![](https://komarev.com/ghpvc/?username=Enesaydgn1&color=green)
+
 <h2 align="center">Frontend Developer | Web Designer <br>
 #JAVASCRİPT #HTML/CSS #REACT  </h2>
 
@@ -9,7 +9,7 @@
 
 ## Social Media
 
-
+![](https://komarev.com/ghpvc/?username=Enesaydgn1&color=green)
 <p align="left">
 <a href="https://linkedin.com/in/enesaydogann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesaydogann" height="30" width="40" /></a>
 <a href="https://medium.com/@enesaydogan65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@enesaydogan65" height="30" width="40" /></a>
