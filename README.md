@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Enes Aydoğan👋</h1>
-![](https://komarev.com/ghpvc/?username=Enesaydgn1&color=green)
+![Enesaydgn1](https://komarev.com/ghpvc/?username=Enesaydgn1&color=green)
 <h2 align="center">Frontend Developer | Web Designer <br>
 #JAVASCRİPT #HTML/CSS #REACT  </h2>
 
