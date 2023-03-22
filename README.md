@@ -19,8 +19,7 @@
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesaydgn1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Enesaydgn1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
-|:-:|:-:|
 
----
+
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/65818129/222975939-a60f7d06-875b-49e3-9b1f-3ff8486da4e2.svg)
