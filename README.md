@@ -1,3 +1,10 @@
+<h1 align="center">Hi, I'm Enes Aydoğan👋</h1>
+
+<h2 align="center">Frontend Developer | Web Designer <br>
+#JAVASCRİPT #HTML/CSS #REACT  </h2>
+
+📫 How to reach me eenesaydogann@gmail.com
+
 # 💫 About Me:
 I make improvements in the frontend area and at the same time I follow the innovations in the software world.
 
