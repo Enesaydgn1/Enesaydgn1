@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Enes Aydoğan👋</h1>
 
-<h2 align="center">Frontend Developer | Web Designer <br>
+<h2 align="center">Frontend Developer | Web Developer | Mobile Developer <br>
 #JAVASCRİPT #HTML/CSS #REACT  </h2>
 
 📫 How to reach me eenesaydogann@gmail.com
